@@ -46,7 +46,11 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake  
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/mrordenador/mrordenador/output/snake.svg" alt="Snake animation" />
 
+###
 ---
