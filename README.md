@@ -1,19 +1,9 @@
-<div align="center" style="font-family: Arial, sans-serif;">
-
-<table style="border-collapse: collapse; border: none; width: 100%; max-width: 800px;">
-  <tr style="border: none;">
-    <td style="border: none; padding-right: 20px; text-align: center;">
-      <img src="https://github.com/MrOrdenador.png" alt="Foto de perfil de MrOrdenador" width="150" style="border-radius: 50%;" />
-    </td>
-    <td style="border: none;">
-      <h2>👋 Hey there! I'm MrOrdenador</h2>
-      <p>🚀 <strong>Fullstack Developer</strong> with a strong focus on <strong>backend development</strong>. While I know my way around frontend, I wouldn’t call myself a great designer—UI/UX is not my strong suit. But when it comes to databases, APIs, and server-side logic, that’s where I shine!</p>
-      <p>🎓 Currently learning <strong>Software Engineering</strong> to deepen my understanding of scalable and efficient systems.</p>
-      <p>🌍 Passionate about <strong>web technologies</strong>, automation, and problem-solving.</p>
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="font-family: Arial, sans-serif; padding: 20px; background-color: #1e1e1e; color: white; border-radius: 15px; max-width: 900px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/MrOrdenador.png" alt="Foto de perfil de MrOrdenador" width="130" style="border-radius: 50%; border: 3px solid #7289DA;" />
+  <h2 style="margin-top: 10px; color: #00bcd4;">👋 Hey there! I'm MrOrdenador</h2>
+  <p style="max-width: 750px; margin: auto;">🚀 <strong>Fullstack Developer</strong> specializing in <strong>backend development</strong>. While I can handle frontend work, UI/UX isn’t my strong suit. My expertise lies in databases, APIs, and server-side logic.</p>
+  <p style="max-width: 750px; margin: auto;">🎓 Currently learning <strong>Software Engineering</strong> to master scalable and efficient systems.</p>
+  <p style="max-width: 750px; margin: auto;">🌍 Passionate about <strong>web technologies</strong>, automation, and problem-solving.</p>
 </div>
 
 ---
@@ -27,7 +17,7 @@
 ---
 
 ### 📱 Connect with Me  
-<div align="left">
+<div align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=mrordenadorcontact@gmail.com&su=Contact+with+Me!&tf=cm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
@@ -40,7 +30,7 @@
 
 ### 🛠 Tech Stack  
 #### 🔧 Strongest Skills (Backend)
-<div align="left">
+<div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   </a>
@@ -50,7 +40,7 @@
 </div>
 
 #### 🎨 Frontend (Not My Strongest Side, But I Manage)
-<div align="left">
+<div align="center">
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   </a>
@@ -66,7 +56,7 @@
 </div>
 
 #### 📌 Basic Knowledge
-<div align="left">
+<div align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   </a>
@@ -74,6 +64,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   </a>
 </div>
+
+---
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrordenador/mrordenador/output/github-snake-dark.svg" />
