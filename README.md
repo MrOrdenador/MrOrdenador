@@ -1,9 +1,12 @@
+<div align="left">
+  <img src="https://github.com/MrOrdenador.png" alt="Foto de perfil de MrOrdenador" width="150" style="border-radius: 50%; margin-right: 20px; float: left;" />
 
-## 👋 Hey there! I'm MrOrdenador
+  ## 👋 Hey there! I'm MrOrdenador
 
-🚀 **Fullstack Developer** with a strong focus on **backend development**. While I know my way around frontend, I wouldn’t call myself a great designer—UI/UX is not my strong suit. But when it comes to databases, APIs, and server-side logic, that’s where I shine!  
-🎓 Currently learning **Software Engineering** to deepen my understanding of scalable and efficient systems.  
-🌍 Passionate about **web technologies**, automation, and problem-solving.
+  🚀 **Fullstack Developer** with a strong focus on **backend development**. While I know my way around frontend, I wouldn’t call myself a great designer—UI/UX is not my strong suit. But when it comes to databases, APIs, and server-side logic, that’s where I shine!  
+  🎓 Currently learning **Software Engineering** to deepen my understanding of scalable and efficient systems.  
+  🌍 Passionate about **web technologies**, automation, and problem-solving.
+</div>
 
 ---
 
