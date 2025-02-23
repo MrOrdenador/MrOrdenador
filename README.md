@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/MrOrdenador.png" alt="MrOrdenador Profile Picture" width="120" style="border-radius: 50%; border: 2px solid #4CAF50;" />
   <h1 style="color: #4CAF50; font-weight: bold;">Hello, I'm MrOrdenador! 👋</h1>
   <p><strong>Fullstack Developer | Backend Specialist</strong></p>
   <p>🚀 Passionate about scalable systems, automation, and problem-solving.</p>
