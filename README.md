@@ -61,9 +61,7 @@
   </a>
 </div>
 
----
-
-## 📚 Currently Learning
+### 📚 Currently Learning
 <div align="center">
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
@@ -71,7 +69,8 @@
 </div>
 
 ---
-
-## 🏆 Fun GitHub Activity
-![GitHub Snake Animation](https://github.com/mrordenador/mrordenador/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrordenador/mrordenador/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrordenador/mrordenador/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mrordenador/mrordenador/output/github-snake.svg" />
+</picture>
