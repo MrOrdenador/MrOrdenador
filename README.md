@@ -52,6 +52,9 @@
 ---
 
 ### 🐍 GitHub Activity Snake
-<div align="center">
-  <img src="https://github.com/mrordenador/mrordenador/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mrordenador/mrordenador/output/snake.svg" alt="Snake animation" />
+
+###
