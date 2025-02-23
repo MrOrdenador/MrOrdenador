@@ -1,7 +1,7 @@
 <div align="center" style="font-family: Arial, sans-serif; padding: 20px; background-color: #1e1e1e; color: white; border-radius: 15px; max-width: 900px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="https://github.com/MrOrdenador.png" alt="Foto de perfil de MrOrdenador" width="130" style="border-radius: 50%; border: 3px solid #7289DA;" />
   <h2 style="margin-top: 10px; color: #00bcd4;">👋 Hey there! I'm MrOrdenador</h2>
-  <p style="max-width: 750px; margin: auto;">🚀 <strong>Fullstack Developer</strong> specializing in <strong>backend development</strong>. While I can handle frontend work, UI/UX isn’t my strong suit. My expertise lies in databases, APIs, and server-side logic.</p>
+  <p style="max-width: 750px; margin: auto;">🚀 <strong>Fullstack Developer</strong> specializing in <strong>backend development</strong>. While I can handle frontend work, UI/UX isn’t my strong suit. My expertise lies in backend.</p>
   <p style="max-width: 750px; margin: auto;">🎓 Currently learning <strong>Software Engineering</strong> to master scalable and efficient systems.</p>
   <p style="max-width: 750px; margin: auto;">🌍 Passionate about <strong>web technologies</strong>, automation, and problem-solving.</p>
 </div>
