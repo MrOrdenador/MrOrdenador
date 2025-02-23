@@ -1,9 +1,11 @@
-<table>
-  <tr>
-    <td>
+<div align="center">
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 20px;">
       <img src="https://github.com/MrOrdenador.png" alt="Foto de perfil de MrOrdenador" width="150" style="border-radius: 50%;" />
     </td>
-    <td>
+    <td style="border: none;">
       <h2>👋 Hey there! I'm MrOrdenador</h2>
       <p>🚀 <strong>Fullstack Developer</strong> with a strong focus on <strong>backend development</strong>. While I know my way around frontend, I wouldn’t call myself a great designer—UI/UX is not my strong suit. But when it comes to databases, APIs, and server-side logic, that’s where I shine!</p>
       <p>🎓 Currently learning <strong>Software Engineering</strong> to deepen my understanding of scalable and efficient systems.</p>
@@ -11,6 +13,9 @@
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ---
 
