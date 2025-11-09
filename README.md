@@ -1,16 +1,3 @@
-<div align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/132808158?v=4"
-    style="
-      width: 7rem;
-      border-radius: 50%;
-      background-color: #f4f4f5;
-      object-fit: cover;
-      margin-bottom: 0.5rem;
-    "
-  />
-</div>
-
 <h1 align="center">Hey, MrOrdenador here! 👋</h1>
 
 <div align="center">
