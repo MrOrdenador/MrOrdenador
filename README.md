@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<p align="center">More info about me and my projects in my <a href="https://mrordenadorportfolio.com">portfolio</a>!</p>
+<p align="center">More info about me and my projects in my <a href="https://mrordenador.vercel.app/">portfolio</a>!</p>
 
 ###
 
