@@ -51,8 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mrordenador&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=mrordenador&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com/?user=MrOrdenador&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats"></img>
 </div>
 
 ###
