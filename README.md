@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MrOrdenador&theme=nord&hide_border=true" style="height: 150px; border-radius: 10px; margin-right: 10px;">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mrordenador&count_private=true&theme=react&border_radius=10&theme=nord" style="height: 150px; border-radius: 10px; margin-right: 10px;">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mrordenador&layout=compact&theme=nord&hide_border=true&border_radius=4&hide=Java" style="height: 150px; border-radius: 10px;">
 </div>
 
