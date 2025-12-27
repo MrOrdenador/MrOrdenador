@@ -55,16 +55,16 @@
   </a>
 </div>
 
-<p align="center">More info about me and my projects in my <a href="https://mrordenador.vercel.app/">portfolio</a>!</p>
+<p align="center">More info about me and my projects in my <a href="https://mrordenador.vercel.app/">portfolio</a>! <i>PS: It's really outdated, will make a new one soon!</i></p> 
 
-###
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mrordenador&count_private=true&border_radius=10&theme=nord&hide_border=true" style="height: 150px; border-radius: 10px; margin-right: 10px;">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mrordenador&layout=compact&theme=nord&hide_border=true&border_radius=10&hide=Java" style="height: 150px; border-radius: 10px;">
 </div>
 
-###
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrordenador/mrordenador/output/pacman-contribution-graph-dark.svg">
