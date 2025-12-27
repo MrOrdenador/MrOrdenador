@@ -15,14 +15,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
   <br>
 
   <h1>Learning</h1>
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="12" />
